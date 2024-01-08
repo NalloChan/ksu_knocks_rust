@@ -1,3 +1,3 @@
 [workspace]
 resolver = "2"
-members = ["knock00_helo_world", "knock01_addition", "knock02_modulo"]
+members = ["knock00_helo_world", "knock01_addition", "knock02_modulo", "knock03_input"]
