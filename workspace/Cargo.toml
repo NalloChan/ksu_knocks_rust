@@ -5,5 +5,7 @@ members = [
     "knock01_addition",
     "knock02_modulo",
     "knock03_input",
-    "knock04_input_and_calc", "knock05_arithmetic",
+    "knock04_input_and_calc",
+    "knock05_arithmetic",
+    "knock06_if_zero",
 ]
