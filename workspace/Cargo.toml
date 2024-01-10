@@ -7,5 +7,5 @@ members = [
     "knock03_input",
     "knock04_input_and_calc",
     "knock05_arithmetic",
-    "knock06_if_zero", "knock07_zero_or_not", "knock08_is_positive", "knock09_positive_or_negative",
+    "knock06_if_zero", "knock07_zero_or_not", "knock08_is_positive", "knock09_positive_or_negative", "knock10_absolute_value",
 ]
