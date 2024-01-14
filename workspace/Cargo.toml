@@ -7,5 +7,5 @@ members = [
     "knock03_input",
     "knock04_input_and_calc",
     "knock05_arithmetic",
-    "knock06_if_zero", "knock07_zero_or_not", "knock08_is_positive", "knock09_positive_or_negative", "knock10_absolute_value", "knock11_repeat_hello", "knock12_any_repeat_hello", "knock13_count_up", "knock14_count_down", "knock15_count_up_twice", "knock16_end_of_zero", "knock17_array_initialize", "knock18_array_input_initialize", "knock19_array_inputs_initialize", "knock20_div_to_mul", "knock21_inside_value", "knock22_outside_value", "knock23_inside_value", "knock24_inside_or", "knock25_value_grouping", "knock26_value_switch", "knock27_total_value", "knock28_factorial", "knock29_input_total", "knock30_bar_graph",
+    "knock06_if_zero", "knock07_zero_or_not", "knock08_is_positive", "knock09_positive_or_negative", "knock10_absolute_value", "knock11_repeat_hello", "knock12_any_repeat_hello", "knock13_count_up", "knock14_count_down", "knock15_count_up_twice", "knock16_end_of_zero", "knock17_array_initialize", "knock18_array_input_initialize", "knock19_array_inputs_initialize", "knock20_div_to_mul", "knock21_inside_value", "knock22_outside_value", "knock23_inside_value", "knock24_inside_or", "knock25_value_grouping", "knock26_value_switch", "knock27_total_value", "knock28_factorial", "knock29_input_total", "knock30_bar_graph", "knock31_bar_graph_ex",
 ]
